@@ -24,7 +24,7 @@ const ViewTeam = () => {
         <div className="row">
           <div className="col-12">
 
-            <table className="table table-bordered table-striped table-hover">
+            <table className="table table-hover">
               <thead className="table-dark">
                 <tr>
                   <th>#</th>
